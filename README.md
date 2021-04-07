@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @plazmid
+- 👋 Hi, I’m Oleg @plazmid
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning solo
 - 💞️ I’m looking to collaborate on many cool developers
